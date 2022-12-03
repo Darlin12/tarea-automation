@@ -25,4 +25,6 @@ def añaddirAirpods3ToCart(driver):
     addToCart = driver.find_element(By.XPATH, "//button[@id='add-to-cart']")
     addToCart.click()
 
+    driver.save_screenshot('./capturas/image1.png')
+
     time.sleep(5)

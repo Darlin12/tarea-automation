@@ -54,4 +54,6 @@ def añadirIphone14ProToCart(driver):
     addToBag = driver.find_element(By.XPATH, '//button[@name = "add-to-cart"]')
     addToBag.click()
 
+    driver.save_screenshot('./capturas/image3.png')
+
     time.sleep(10)

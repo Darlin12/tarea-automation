@@ -51,4 +51,6 @@ def añadirIphoneSetoCart(driver):
     addToBag = driver.find_element(By.XPATH, '//button[@name = "add-to-cart"]')
     addToBag.click()
 
+    driver.save_screenshot('./capturas/image2.png')
+
     time.sleep(10)

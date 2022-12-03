@@ -1,0 +1,24 @@
+Primer Historia de usuario
+
+Yo Como cliente
+quiero poder añadir productos a un carrito de compras
+para poder comprar multiples productos al mismo tiempo
+
+Criterios de aceptación
+-Tener un boton en la barra de navegación que de acesso al carrito
+-Poder eliminar productos de carrito
+-Poder modificar desde el carrito la cantidad de X item que esté en el carrito 
+
+
+
+
+
+Segunta Historia de usuario
+Yo Como cliente
+quiero elegir las especificaciones de los productos a comprar
+para poder comprar un producto que se adapte a mis necesidades espécificas
+
+Criterios de aceptación
+-poder elegir el espacio de almacenamiento de los dispositivos
+-poder elegir el color del dispositivo
+-poder elegir la compañia telefónica de mi dispositivo
