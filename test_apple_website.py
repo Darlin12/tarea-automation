@@ -21,7 +21,7 @@ def test_oderingAppleProducts():
     #-------funcion para añadir airpod 3rd gen a carrito
     añaddirAirpods3ToCart(driver)
 
-    # ------funcion para añadir iphone SE a carrito
+    # ------funcion para añadir iphone SE a carritojjj
     añadirIphoneSetoCart(driver)
 
     #-------funcion para añadir iphone 14 pro 128gb
