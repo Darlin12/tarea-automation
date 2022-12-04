@@ -9,9 +9,7 @@ Criterios de aceptación
 -Poder eliminar productos de carrito
 -Poder modificar desde el carrito la cantidad de X item que esté en el carrito 
 
-
-
-
+---------
 
 Segunta Historia de usuario
 Yo Como cliente
@@ -22,3 +20,41 @@ Criterios de aceptación
 -poder elegir el espacio de almacenamiento de los dispositivos
 -poder elegir el color del dispositivo
 -poder elegir la compañia telefónica de mi dispositivo
+
+
+-----------
+
+Tercera Historia de usuario
+Yo Como cliente
+quiero tener una banner con todos los productos principales
+para tener acceso rápido a los productos a comprar
+
+Criterios de aceptación
+-Cada like de los productos en el navbar debe de llevar al usuario a ese producto en especifico
+-El banner tambien de incluir el carrito de compras
+
+
+----------
+
+
+Cuarta Historia de usuario
+Yo Como cliente
+quiero elegir la tienda espécifica en la que obtendré mis productos
+para tener mas comodidad a la hora de recoger mis productos
+
+
+Criterios de aceptación
+-Se le debe preguntar al usuario si quiere que se le envie el producto o si el lo quiere recoger
+-Se le debe preguntar en que ciudad quiere recoger sus productos y mostrarle las tiendas de esa ciudad
+-preguntarle en que horario quiere recoger su pedido
+
+
+------------
+Yo Como cliente
+quiero tener una insignia en el icono del carrito que indique la cantidad de productos que tengo en el carrito
+para saber cuantos productos tengo en el carrito sin necesidad de abrir el carrito
+
+Criterios de aceptación
+-Que la insignia del carrito se actualice conforme añada o elimine articulos al carrito
+-si no hay articulos en el carrito que la insignia desaparezca hasta que añada articulos en el carrito
+
