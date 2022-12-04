@@ -50,6 +50,8 @@ Criterios de aceptación
 
 
 ------------
+
+Quinta Historia de usuario
 Yo Como cliente
 quiero tener una insignia en el icono del carrito que indique la cantidad de productos que tengo en el carrito
 para saber cuantos productos tengo en el carrito sin necesidad de abrir el carrito
